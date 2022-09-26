@@ -1,0 +1,21 @@
+{
+  "name": "nevsuite-solid",
+  "version": "0.0.0",
+  "author": "Sven Steffan",
+  "license": "MIT",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "vite": "^3.0.0",
+    "vite-plugin-solid": "^2.3.0"
+  },
+  "dependencies": {
+    "solid-js": "^1.4.7",
+    "redux": "^4.2.0",
+    "jquery": "^3.6.0",
+    "uuid": "^8.3.2",
+    "@fortawesome/fontawesome-free": "^6.1.1"
+  }
+}
